@@ -1,0 +1,17 @@
+SuggestionBox
+=============
+
+ActsAsReviewable.  For Partner Fusion use only.
+
+
+Example
+=======
+
+Make sure you have the config file 'reviewable.yml' in your config folder:
+
+# config/reviewable.yml
+--- 
+  :url: url_to_reviewable_webservice (including http/https)
+  
+
+Copyright (c) 2008 Partner Fusion, released under the MIT license
